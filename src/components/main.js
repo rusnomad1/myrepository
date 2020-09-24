@@ -10,7 +10,7 @@ import Projects from './projects';
 function Main(){
     return(
         <Switch>
-            <Route exact path="/" component={LandingPage}/>
+            <Route exact path="/myrepository" component={LandingPage}/>
             <Route  path="/aboutme" component={AboutMe}/>
             <Route path="/contact" component={Contact}/>
             <Route  path="/projects" component={Projects}/>
