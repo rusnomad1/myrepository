@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myrepository/static/css/main.6cacf05b.chunk.css",
+    "main.js": "/myrepository/static/js/main.a34d6581.chunk.js",
+    "main.js.map": "/myrepository/static/js/main.a34d6581.chunk.js.map",
+    "runtime-main.js": "/myrepository/static/js/runtime-main.efa62bb9.js",
+    "runtime-main.js.map": "/myrepository/static/js/runtime-main.efa62bb9.js.map",
+    "static/css/2.cd1c2086.chunk.css": "/myrepository/static/css/2.cd1c2086.chunk.css",
+    "static/js/2.682dc5d1.chunk.js": "/myrepository/static/js/2.682dc5d1.chunk.js",
+    "static/js/2.682dc5d1.chunk.js.map": "/myrepository/static/js/2.682dc5d1.chunk.js.map",
+    "index.html": "/myrepository/index.html",
+    "precache-manifest.a3d021c1107282def9dd8a351b9d83b4.js": "/myrepository/precache-manifest.a3d021c1107282def9dd8a351b9d83b4.js",
+    "service-worker.js": "/myrepository/service-worker.js",
+    "static/css/2.cd1c2086.chunk.css.map": "/myrepository/static/css/2.cd1c2086.chunk.css.map",
+    "static/css/main.6cacf05b.chunk.css.map": "/myrepository/static/css/main.6cacf05b.chunk.css.map",
+    "static/js/2.682dc5d1.chunk.js.LICENSE.txt": "/myrepository/static/js/2.682dc5d1.chunk.js.LICENSE.txt",
+    "static/media/мое фото.jpg": "/myrepository/static/media/мое фото.c37c12ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efa62bb9.js",
+    "static/css/2.cd1c2086.chunk.css",
+    "static/js/2.682dc5d1.chunk.js",
+    "static/css/main.6cacf05b.chunk.css",
+    "static/js/main.a34d6581.chunk.js"
+  ]
+}
